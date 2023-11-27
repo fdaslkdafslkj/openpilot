@@ -594,7 +594,7 @@ void FrogPilotPanel::setParams() {
     {"UnlimitedLength", "1"},
     {"VisionTurnControl", "1"},
     {"WheelIcon", "1"},
-    {"WideCameraOff", "1"}
+    {"WideCameraOff", "1"},
     // Tuning
     {"LatAngleFactor", ""},
     {"LatAccelFactor", ""},
